@@ -1,7 +1,7 @@
 ## Base url
 
 ```
-https://anydl.frediapi.tech
+https://anydl.joshuamambo1api.tech
 ```
 
 ## available/Working Endpoints
